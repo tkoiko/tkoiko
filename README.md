@@ -1,3 +1,5 @@
+[tkoiko-gamble](https://tkoiko.netlify.app/)
+
 ```html
 <log type='md'>
 		| 2 12 | 3 11 | 5 9  | 6 8   | 4 7 10  |
