@@ -1,4 +1,4 @@
-[tkoiko-gamble](https://tkoiko.netlify.app/)
+[💎❤️🧻 | tkoiko-gamble](https://tkoiko.netlify.app/)
 
 ```html
 <log type='md'>
